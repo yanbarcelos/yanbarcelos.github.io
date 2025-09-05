@@ -2,18 +2,14 @@
 
 ### Work Experience
 
-Intern
-
-09/2023 - 03/2025 | City Hall of Campos dos Goytacazes
+Intern at City Hall of Campos dos Goytacazes (09/2023 - 03/2025)
 - Developed, tested and maintained systems, aiming for process optimization.
 - Implemented a task automation project for documents and spreadsheets editing, reducing the time needed to complete a task from 8 hours to under 30 minutes.
 - Technologies used: PHP, Python, SQL, JavaScript, Git, HTML and CSS.
 
 ### Education
 
-**Computer Engineering**
-
-04/2018 - 05/2025 | Fluminense Federal Institute of Education, Science and Technology
+**Computer Engineering** | Fluminense Federal Institute of Education, Science and Technology (May 2025)
 
 ### Certification
 
@@ -37,4 +33,9 @@ An online retail business was experiencing a decline in key performance indicato
 
 I began by exploring transactional and customer feedback data to establish a baseline for key performance indicators (KPIs) such as Conversion Rate, Customer Engagement Rate, and Average Order Value (AOV). This analysis helped pinpoint the specific areas of decline and the extent of the problem. To understand the "why" behind the reduced engagement, I performed sentiment analysis on customer feedback. I created an interactive dashboard in Power BI to visualize the key metrics and insights. This dashboard provides a clear overview of the campaign's performance, customer behavior trends, and the impact of the identified issues on the business. It serves as a tool for stakeholders to make data-driven decisions.
 
-### Contact
+### Contact Me
+
+You can reach me at:
+
+E-mail: ygcbarcelos@gmail.com
+[LinkedIn](https://www.linkedin.com/in/yangcbarcelos/)
