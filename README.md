@@ -38,4 +38,5 @@ I began by exploring transactional and customer feedback data to establish a bas
 You can reach me at:
 
 E-mail: ygcbarcelos@gmail.com
+
 [LinkedIn](https://www.linkedin.com/in/yangcbarcelos/)
